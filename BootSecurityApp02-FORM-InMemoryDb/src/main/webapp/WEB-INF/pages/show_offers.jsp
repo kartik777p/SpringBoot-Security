@@ -5,7 +5,6 @@
 <br>
 <b> hello mr <%=SecurityContextHolder.getContext().getAuthentication().getName()%><b><br>
 <br>
-<br>
 <!--Fixed URL-->
 <!-- <a href="logout"> LogOut </a> -->
 
